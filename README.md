@@ -4,7 +4,11 @@
 TinderCat é um aplicativo de demonstração desenvolvido em Swift utilizando UIKit. Ele permite que os usuários deslizem para "curtir" gatos, vejam perfis detalhados dos gatos, e mantenham uma lista dos gatos curtidos.
 
 
-https://github.com/FelipeAngeli/TinderCat/assets/59125006/2dd17beb-0bda-418d-96da-1e9755b0ec9d
+
+
+https://github.com/FelipeAngeli/TinderCat/assets/59125006/5c2a0149-8342-4f6d-8db5-6d504c4af639
+
+
 
 
 
